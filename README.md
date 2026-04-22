@@ -8,9 +8,9 @@ Currently focused on LLM fine-tuning, multimodal architectures, and AI safety to
 
 ## Projects
 
-**[ACE](https://github.com/ansh0x/ace)** — Adaptive Command Executor
-**[Sentinel Garden](https://github.com/ansh0x/sentinel_garden)** — RL Environment for LLM Safety
-**[HippDex](https://github.com/ansh0x/HippDex)** — Hippocampal Index for Mamba *(WIP)*---
+- **[ACE](https://github.com/ansh0x/ace)** — Adaptive Command Executor
+- **[Sentinel Garden](https://github.com/ansh0x/sentinel_garden)** — RL Environment for LLM Safety
+- **[HippDex](https://github.com/ansh0x/HippDex)** — Hippocampal Index for Mamba *(WIP)*---
 
 ## Stack
 
